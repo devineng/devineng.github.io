@@ -22,4 +22,4 @@ There are two major components to this project, the OBU client and OBU Server. T
 
 Currently, I am helping with the development of the OBU Client. I started with creating a stoplight visual to display the current signal status of the upcoming intersection, then creating a progress bar with percentage and color (red, green, yellow) indication for fuel efficiency. Afterward, I created lane arrows that indicate the real-time signal of their respective intersections along 34 intersections. Once this was finished, I went on to create the visual vehicle interface, which shows the host vehicle, any nearby participating vehicles, upcoming crosswalks and pedestrians, and lane markers that move depending on the driver's speed. The project is still in development and I am still working on this section.
 
-
+Team: Dr. Guohui Zhang, Robert Lemon, Igor Lashkov, Hanyi Yang, Yiwei Wang

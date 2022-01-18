@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/interfacePed.jpg
 title: Nimitz Corridor V2X System
 permalink: 
 # projects/micromouse
@@ -15,10 +15,8 @@ summary: Information exchanges between vehicles to effectively balance traffic d
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/interfacePed.jpg">
+  <img class="ui image" src="../images/interfaceCar.jpg">
 </div>
 
 Traffic congestion on Nimitz Hwy and Ala Moana Blvd during traffic hours results in drivers sitting in their cars longer than they want to. The Nimitz Corridor V2X System will help prevent car, pedestrian, and cyclist collisions, speed guidance for optimum fuel efficiency based on the status of signals and car density at intersections ahead of the vehicle, and a real-time map reflecting signal status and the positions of all participating vehicles. Each participant will have a supported phone, app, and on board unit (OBU) device. This project is led by Dr. Guohui Zhang.

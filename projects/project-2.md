@@ -2,24 +2,17 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: CRISPR-Cas9-Based Epigenome Editing to Inhibit Skin Cancer
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-06-04
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - CRISPR-dCas9
+  - DNA demethylation
+  - p16 tumor suppressor
+summary: Targeted DNA demethylation to reactivate dormant tumor suppressors and inhibit cancer phenotypes
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Inactivation of tumor suppressors occurs in many cancers due to not only genetic loss but also epigenetic silencing. If tumor suppressors are silenced by aberrant epigenetic modifications, it may be possible to reactivate dormant tumor suppressors by modulating epigenetic marks. DNA methylation at promoters inhibits transcription and can be found at tumor suppressor genes in cancers. Indeed, some skin cancers have inactivation of the p16 tumor suppressor gene due to promoter methylation. p16 is an important regulator of the cell cycle, and its loss leads to dysregulated cell cycle and tumor development. To investigate whether p16 can be reactivated by demethylating its promoter in cancer cells, we used a modified CRISPR-Cas9 system to edit the epigenome: deactivated Cas9 fused with TET1, a DNA demethylating enzyme. To recruit dCas9-TET1 to a specific genomic locus, we designed gRNAs targeting the p16 promoter. SKMEL-2 melanoma cell line has silenced p16 due to promoter methylation, and thus we transduced SK-MEL-2 cells with dCas9-TET1. Compared to negative control gRNA, cells with dCas9-TET1 and p16 promoter gRNA showed a trend toward decreased DNA methylation at the p16 promoter. Also, cells with p16 promoter gRNA had a trend toward increased p16 mRNA expression, but not p14 expression. Furthermore, cell proliferation may be inhibited by p16 promoter gRNA. Taken together, dCas9-TET1 targeting the p16 promoter may decrease DNA methylation, may increase p16 mRNA expression, and may inhibit cell proliferation. This study provides a basis for targeted DNA demethylation to reactivate dormant tumor suppressors and inhibit cancer phenotypes.

@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software engineering",
       "keywords": [
       ]
     },
@@ -40,6 +40,11 @@
     },
     {
       "name": "medical devices",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "prosthetics",
       "keywords": [
       ]
     }
@@ -78,7 +83,7 @@
       "area": "Electrical and Computer Engineering",
       "studyType": "M.S.",
       "startDate": "2021-08-16",
-      "endDate": "expected December, 2022",
+      "endDate": "Present",
       "gpa": "",
       "courses": [
       ]

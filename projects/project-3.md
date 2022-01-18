@@ -2,60 +2,17 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Skin Cancer-Precentive Effects of Caffeinated Coffee in Men and Women
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-05-05
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Python
+  - Jupyter Notebooks
+summary: Caffeinated coffee consumption may be preventing thousands of skin cancers annually
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Skin cancer is the most prevalent cancer in the U.S., with an annual incidence of 5.5 million, exceeding all other cancers combined. Given the extremely high incidence of skin cancer, preventive measures are important. Intriguingly, multiple human epidemiological studies have demonstrated that caffeinated coffee, which is widely consumed in the U.S., is associated with decreased risk of developing skin cancer in a dose-dependent manner. Importantly, decaffeinated coffee had no such preventive effect. To determine the per-cup effect of caffeinated coffee consumption on skin cancer prevention, we performed linear regression analyses of previously published data. Males showed 3.0% reduced risk per cup of caffeinated coffee, whereas females showed 4.4% reduced risk. To determine the average reduced risk among males and females in the U.S. population, we extracted coffee consumption data from the National Health and Nutrition Examination Survey (NHANES) 2015–2016. Subsequently, the average number of cups of caffeinated coffee consumed was combined with the per-cup effect on skin cancer prevention. Among caffeinated coffee drinkers, males and females consumed on average 2.9 and 2.0 cups, respectively. However, both male and female caffeinated coffee drinkers coincided with 9% reduced risk of skin cancer incidence even though coffee consumption and the per-cup effect on risk reduction were different between males and females. The cancer-preventive effects of caffeinated coffee per cup appear to be stronger in females than in males. However, greater coffee consumption in males with weaker per-cup effect on skin cancer prevention leads to the net effect in males being comparable to that in females. For both genders, current levels of caffeinated coffee consumption may be preventing thousands of skin cancers annually.
 

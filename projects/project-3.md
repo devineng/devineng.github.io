@@ -20,4 +20,4 @@ To determine the average reduced risk among males and females in the U.S. popula
 
 From this experience, I improved my research paper reading and writing skills, including figure making. Since I had to create Python code (unable to the public) to analyze data from 9,000+ participants, my Python skills also improved. I presented my findings at the University of Washington 2020 Undergraduate Research Symposium, so my presenting skills also improved as well.
 
-Collaborators: Dr. Masoki Kawasumi and Jihoon Lee
+Acknowledgements: Dr. Masoki Kawasumi and Jihoon Lee

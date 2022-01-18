@@ -11,7 +11,7 @@ labels:
   - C#
   - GitHub
   - SourceTree
-summary: Hawaii Department of Transportation sponsored research project on information exchanges between vehicles to effectively balance traffic demand distribution among traffic networks and facilitate flow progression.
+summary: Information exchanges between vehicles to effectively balance traffic demand distribution among traffic networks and facilitate flow progression.
 ---
 
 <div class="ui small rounded images">

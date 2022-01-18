@@ -14,10 +14,8 @@ labels:
 summary: Information exchanges between vehicles to effectively balance traffic demand distribution among traffic networks and facilitate flow progression.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/interfacePed.jpg">
-  <img class="ui image" src="../images/interfaceCar.jpg">
-</div>
+<img class="ui image" src="../images/interfacePed.jpg">
+<img class="ui image" src="../images/interfaceCar.jpg">
 
 Traffic congestion on Nimitz Hwy and Ala Moana Blvd during traffic hours results in drivers sitting in their cars longer than they want to. The Nimitz Corridor V2X System will help prevent car, pedestrian, and cyclist collisions, speed guidance for optimum fuel efficiency based on the status of signals and car density at intersections ahead of the vehicle, and a real-time map reflecting signal status and the positions of all participating vehicles. Each participant will have a supported phone, app, and on board unit (OBU) device. This project is led by Dr. Guohui Zhang.
 

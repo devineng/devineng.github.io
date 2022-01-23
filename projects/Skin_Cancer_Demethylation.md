@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cdkn2a.jpg
+image: images/cdkn2a_square.jpg
 title: CRISPR-Cas9-Based Epigenome Editing to Inhibit Skin Cancer
 permalink: 
 # All dates must be YYYY-MM-DD format!

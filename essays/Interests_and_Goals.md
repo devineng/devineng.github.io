@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui image" src="https://www.stevens.edu/sites/stevens_edu/files/Machine-Learning-v2-shutterstock_1092234560_0.jpg">
+<img class="ui image" src="../images/isUnique.jpg">
 
 **I'm originally a bioengineer. Why the heck am I studying software engineering?** Well, knowing to code is one aspect of bioengineering if you want to create medical devices or engage in research. In my undergraduate education, I learned various engineering disciplines, however, not in depth. As I worked on numerous medical device prototypes, I realized that electrical engineering and coding skills were necessary to develop these devices and that my lack of knowledge in these fields hindered my contributions. I wanted to increase my knowledge of these fields, so I am pursing my Master's in Electrical and Computer Engineering and taking courses in electrical engineering and computer science.
 

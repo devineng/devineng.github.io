@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui image" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png">
+<img class="ui medium image" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png">
 
 **JavaScript first impressions** \
 Out of the languages I have experience with, JavaScript is most similar to Java. The languages I have experience with are Java, Python, MATLAB, System Verilog, and MIPS assembly. To be frank, I am not adept at any of these languages, but Java is what I have most experience with currently from prior classes and work. Although JavaScript is new to me, it was not too challenging to pick up the basics from the FreeCodeCamp's Introduction to JavaScript and ES6 because of my previous experience with Java. The largest difference to me was the use of const and let in JavaScript. I was used to making specific data type declarations, such as integer, double, and string, for example, but in JavaScript, const and let are extremely flexible. Despite my limited experience with JavaScript, I find these features the most useful. FreeCodeCamp's Introduction to JavaScript and ES6 were extremely helpful in teaching me the basics of JavaScript. Although it was quite tedious to complete, revisiting basic coding concepts was a helpful refresher and the problems taught me new concepts I did not know beforehand, such as promises and switch statements. Overall, JavaScript is a useful language to know, and I look forward to becoming better at using it.

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/interfacePed.jpg
+image: images/interfacePed_square.jpg
 title: Nimitz Corridor V2X System
 permalink: 
 # projects/micromouse

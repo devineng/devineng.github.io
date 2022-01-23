@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/caffeinePresentation.jpg
+image: images/caffeinePresentation_square.jpg
 title: Skin Cancer-Precentive Effects of Caffeinated Coffee in Men and Women
 permalink: 
 # All dates must be YYYY-MM-DD format!

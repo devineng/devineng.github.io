@@ -122,38 +122,6 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Levinson Emerging Scholars Award",
-      "date": "Oct 2020 – June 2021",
-      "awarder": "University of Washington",
-      "summary": "Awarded for research that furthers innovation in bioscience and related fields"
-    },
-    {
-      "title": "Mary Gates Research Scholarship",
-      "date": "Mar 2020 – Dec 2020",
-      "awarder": "University of Washington",
-      "summary": "Awarded for my motivation, understanding of research, and impact of research project"
-    },
-    {
-      "title": "Purple and Gold Scholarship",
-      "date": "Sept 2017 – June 2021",
-      "awarder": "University of Washington",
-      "summary": "Awarded for excellence in high school academics, athletics, and extracurriculars"
-    },
-    {
-      "title": "Kaimana Award",
-      "date": "Apr 2017 – Dec 2017",
-      "awarder": "Hawaii Medical Service Association",
-      "summary": "Awarded for excellence in high school academics, sportsmanship, and extracurriculars"
-    },
-    {
-      "title": "Hawaii Rotary Youth Foundation Scholarship",
-      "date": "Apr 2017 – Dec 2017",
-      "awarder": "Hawaii Rotary Youth Foundation",
-      "summary": "Awarded for excellence in high school academics, athletics, and extracurriculars"
-    }
-  ],
   "volunteer": [
     {
       "company": "University of Washington, Undergraduate Research Program",
@@ -204,6 +172,38 @@
       "summary": "Assisted teak deck replacement, turret restoration, carpentry projects, construction of new exhibits, painting, and event preparation. Supervised groups as large as 30 for restoration projects and provided ship tourss",
       "highlights": [
       ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Levinson Emerging Scholars Award",
+      "date": "Oct 2020 – June 2021",
+      "awarder": "University of Washington",
+      "summary": "Awarded for research that furthers innovation in bioscience and related fields"
+    },
+    {
+      "title": "Mary Gates Research Scholarship",
+      "date": "Mar 2020 – Dec 2020",
+      "awarder": "University of Washington",
+      "summary": "Awarded for my motivation, understanding of research, and impact of research project"
+    },
+    {
+      "title": "Purple and Gold Scholarship",
+      "date": "Sept 2017 – June 2021",
+      "awarder": "University of Washington",
+      "summary": "Awarded for excellence in high school academics, athletics, and extracurriculars"
+    },
+    {
+      "title": "Kaimana Award",
+      "date": "Apr 2017 – Dec 2017",
+      "awarder": "Hawaii Medical Service Association",
+      "summary": "Awarded for excellence in high school academics, sportsmanship, and extracurriculars"
+    },
+    {
+      "title": "Hawaii Rotary Youth Foundation Scholarship",
+      "date": "Apr 2017 – Dec 2017",
+      "awarder": "Hawaii Rotary Youth Foundation",
+      "summary": "Awarded for excellence in high school academics, athletics, and extracurriculars"
     }
   ],
   "references": [

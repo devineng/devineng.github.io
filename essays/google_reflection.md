@@ -9,7 +9,7 @@ labels:
   - Google
 ---
 
-<img class="ui small image" src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_share.jpg">
+<img class="ui medium image" src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_share.jpg">
 
 Google is one of the most well known companies in the world. Their growing team of software engineers over the decades have collaboratively created one of the largest codebases ever. On February 3rd, 2022, Google senior software engineers gave an ACM Tech Talk titled “Software Engineering at Google”, which discussed Google’s practices for maintaining their codebase. The main points in their talk, time, scale, and tradeoffs, are reviewed below.
 

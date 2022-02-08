@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Takeaways from Senior Software Engineers at Google
+title: Takeaways from Google Software Engineers
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-07
 labels:

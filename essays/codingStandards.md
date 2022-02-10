@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: ESLint is a Helpful Coding Tool
 # All dates must be YYYY-MM-DD format!
-date: 2022-02-07
+date: 2022-02-09
 labels:
   - ESLint
   - Javascript

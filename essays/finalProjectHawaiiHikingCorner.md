@@ -20,7 +20,7 @@ There will be numerous landing pages, one for each trail, and a home page listin
 Users can add hikes they are interested into a list and post trip reports. The user home page is the list of interested hikes.
 Admins can modify existing hiking pages to reflect current conditions.
 
-Mockup page ideas:
+**Mockup page ideas:** \
 - Home landing page
 - Pages for different hikes
 - User home page

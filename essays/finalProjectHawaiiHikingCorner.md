@@ -27,11 +27,11 @@ Admins can modify existing hiking pages to reflect current conditions.
 - Admin home page
 
 **Use case ideas** \
-New user goes to landing page, can see list of hikes and navigates to different pages
-New user goes to landing page, creates a profile, undergoes tutorial of application
-User goes to landing page, logs in, can create a trip report or bookmark a hike they’re interested in. They can also navigate to different pages
-Admin goes to landing page, logs in, can modify the content of hiking pages
+- New user goes to landing page, can see list of hikes and navigates to different pages
+- New user goes to landing page, creates a profile, undergoes tutorial of application
+- User goes to landing page, logs in, can create a trip report or bookmark a hike they’re interested in. They can also navigate to different pages
+- Admin goes to landing page, logs in, can modify the content of hiking pages
 
 **Beyond the basics** \
-Support an interactive maps feature showing the trail
-Trip reports add up, so have a feature that can navigate the trip reports without reloading the page
+- Support an interactive maps feature showing the trail
+- Trip reports add up, so have a feature that can navigate the trip reports without reloading the page

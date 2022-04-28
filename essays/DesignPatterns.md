@@ -8,7 +8,7 @@ labels:
   - Design patterns
 ---
 
-<img class="ui medium image" src="https://th.bing.com/th/id/R.c50da9403e121a2addaab319e9209ee8?rik=heY9M8DgbSlbJA&pid=ImgRaw&r=0">
+<img class="ui large image" src="https://th.bing.com/th/id/R.c50da9403e121a2addaab319e9209ee8?rik=heY9M8DgbSlbJA&pid=ImgRaw&r=0">
 
 Have you ever started learning something new and had someone experienced give you tips on how to more effectively complete what you’re trying to accomplish? The person, having gone through the same learning process you are going through at some point in their life, gives you helpful advice that reduces your learning curve. The advice they offer was gained through trial and error on their part, refined, and then shared with you. Essentially, the tip saves you the time of having to undergo the trial and error yourself. In the field of coding, a similar phenomenon can be observed with design patterns.
 

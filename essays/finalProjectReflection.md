@@ -9,7 +9,6 @@ labels:
   - Smart contracts
 ---
 
-<img class="ui medium image" src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_share.jpg">
 <img class="ui medium image" src="https://th.bing.com/th/id/R.9d31e91124d36bb581f26990e4591390?rik=W3opzTamDU73Eg&riu=http%3a%2f%2fmediad.publicbroadcasting.net%2fp%2fkhpr%2ffiles%2fstyles%2fx_large%2fpublic%2f201802%2fIMG_7345.jpg&ehk=D%2bTe%2fVkT77fMqsmcV8piy5t0nhoMPL7sBWG9xG9zr5M%3d&risl=&pid=ImgRaw&r=0">
 
 The current state of the Akamy-Rentals project is incomplete. However, great progress was made on implementing the website that users will interact with to lead to the creation of a smart contract. All the steps and UI components leading up to the deployment of a smart contract inside a blockchain are completed and functional. Specifically, new users can create and sign into their accounts, edit their profiles, learn about smart contracts, and create and edit smart contracts.

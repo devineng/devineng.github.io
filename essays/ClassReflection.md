@@ -10,7 +10,7 @@ labels:
   - Coding standards
 ---
 
-<img class="ui medium image" src="https://th.bing.com/th/id/R.319a5e5f2568cc59fd1fa8ff70c39766?rik=sVEiVMUxqMqp9g&pid=ImgRaw&r=0">
+<img class="ui large image" src="https://th.bing.com/th/id/R.319a5e5f2568cc59fd1fa8ff70c39766?rik=sVEiVMUxqMqp9g&pid=ImgRaw&r=0">
 
 ICS 613 has been an extremely helpful class for learning about software engineering and web development. Numerous different topics were covered that have applications beyond web development. Functional programming, development environments, and coding standards are ICS 613 topics that I can see myself using the most in different projects throughout my software engineering career.
 

@@ -11,7 +11,7 @@ labels:
 **Overview** \
 The landscape in Hawaii is always changing. Rain carves the Earth, humans walk on it, and natural disasters occur. Such events can affect hiking trail conditions.
 
-The problem: People wanting to go on hikes in Hawaii will find that there is no easy way to find out current trail conditions. A hiker knowing beforehand what to expect allows them to prepare accordingly, reducing their risk of uneventful encounters.
+The problem: People wanting to go on hikes in Hawaii will find that there is no easy way to learn current trail conditions. A hiker knowing beforehand what to expect allows them to prepare accordingly, reducing their risk of uneventful encounters.
 
 The solution: The Hawaii Hiking Corner application allows people to post trip reports regarding their recent hike for other interested hikers to view. Specifically, the trip report will contain keywords such as the duration and trail conditions, the date hiked, feature to upload photos, and a writing section for additional details about the trail. Additionally, trail information, such as length, location, and elevation, will be provided, so an interested hiker can obtain all the knowledge they need beforehand from this application. Hikers can also login and bookmark trails they are interested in.
 

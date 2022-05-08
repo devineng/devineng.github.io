@@ -18,7 +18,7 @@ Given my background of no prior web development experience, this project applied
 
 Specific functionalities are described below. Bolded statements are my contributions to the project.
 
-<img class="ui large image" src="../images/akamyLanding.png">
+<img class="ui massive image" src="../images/akamyLanding.png">
 - Landing page describing smart contracts
 - New users can register for a new account
   - Accounts are stored in a MongoDB collection
@@ -28,7 +28,7 @@ Specific functionalities are described below. Bolded statements are my contribut
 - **Navbar provides links to other pages**
 
 
-<img class="ui large image" src="../images/akamyDashboard.png">
+<img class="ui massive image" src="../images/akamyDashboard.png">
 - Dashboard shows important information
   - **View select smart contract information on the dashboard**
   - Number of active smart contracts
@@ -37,7 +37,7 @@ Specific functionalities are described below. Bolded statements are my contribut
   - Transaction log
 
 
-<img class="ui large image" src="../images/akamyCreate.png">
+<img class="ui massive image" src="../images/akamyCreate.png">
 - **Create smart contract drafts (creators are the homeowners)**
   - **New smart contract drafts are saved to a MongoDB collection**
   - **The tenant can view the proposed smart contract on their account**
@@ -46,7 +46,7 @@ Specific functionalities are described below. Bolded statements are my contribut
   - **Only homeowners of smart contracts can edit smart contracts**
 
 
-<img class="ui large image" src="../images/akamyTenantSign.png">
+<img class="ui massive image" src="../images/akamyTenantSign.png">
 - **View smart contract drafts**
   - **Tenant only feature**
   - **Tenants can declare if they agree with the smart contract, which the homeowner will be able to see**
